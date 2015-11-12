@@ -14,7 +14,7 @@
 
 ### SOURCE 
 
-    Based on the sequences presented in Pernice et al. 2013. PLoS ONE 8:e57170
+    Based on the sequences presented in Pernice et al. 2013. PLoS ONE 8:e57170 		(http://dx.plos.org/10.1371/journal.pone.0057170)
 
 
 ### HISTORY OF THE DATASET
@@ -30,7 +30,7 @@
     - Add stramenopiles (including MAST and MOCH clades and subclades) as in Massana et al. 
     2014. ISME J. 8: 854-866
 
-- Add opisthokonta including del Campo & Ruiz-Trillo 2013. Mol. Biol. Evol. 30:802–805
+	- Adds opisthokonta including del Campo & Ruiz-Trillo 2013. Mol. Biol. Evol. 30:802–805
 
 
 ### ADDITIONAL COMMENTS	
