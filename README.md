@@ -1,7 +1,7 @@
 ## Sanger environmental marine sequences of the V4-V5 regions
 
     Database name: MAS_V4_DB
-    Version : 8903
+    Version : 8903 | November 2015
     Contact: ramonm at icm.csic.es
 
 ### DESCRIPTION
